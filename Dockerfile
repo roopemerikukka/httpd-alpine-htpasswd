@@ -1,4 +1,4 @@
-FROM httpd:alpine
+FROM httpd:2.4-alpine
 
 # Default user and password.
 ENV AUTH_USER username
