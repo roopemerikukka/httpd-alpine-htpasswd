@@ -1,6 +1,6 @@
 FROM httpd:alpine
 
-# Default user and password.
+# Default username, password and UID.
 ENV AUTH_USER username
 ENV AUTH_PASS password
 
